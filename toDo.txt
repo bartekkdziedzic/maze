@@ -1,0 +1,8 @@
+1. find way to update grid on every algorithm move
+  1.1 highlight current cell
+
+2. implement  current cell movement
+  2.1 destroy wall between previous and current cell
+  2.2 show path trace
+  
+3. implement backtracking algorithm
